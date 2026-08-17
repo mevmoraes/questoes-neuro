@@ -11,7 +11,6 @@ para cada questão, o porquê da alternativa correta **e** o porquê de cada alt
 |---|---|
 | [Caderno interativo](https://mevmoraes.github.io/questoes-neuro/) | Responder no navegador, com correção na hora e estatísticas de acerto |
 | [PDF](caderno-questoes-neuroanatomofisiologia.pdf) | Imprimir ou estudar offline — 91 páginas, gabaritos e comentários abertos |
-| [PowerPoint](caderno-questoes-neuroanatomofisiologia.pptx) | Apresentar em sala ou em grupo — 124 slides, questão e gabarito alternados |
 
 ## Como usar o caderno interativo
 
